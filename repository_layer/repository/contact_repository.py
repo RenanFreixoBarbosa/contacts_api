@@ -43,7 +43,6 @@ class ContactRepository():
     def update_contact(self,contact_id: int, name: str, phone: str, address: str):
         try:
             contato = self.session.query(Contact).filter(Contact.id == contact_id).first()
-            print(contato.name)
             if not contato:
                 return None
 
