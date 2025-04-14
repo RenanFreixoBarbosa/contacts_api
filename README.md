@@ -15,7 +15,7 @@ Siga os passos abaixo para executar a API no seu ambiente local:
     * **Python 3:** Certifique-se de ter o Python 3 instalado na sua máquina. Você pode verificar a versão executando o comando `python --version` ou `python3 --version` no seu terminal.
     * **pip:** O gerenciador de pacotes do Python. Geralmente vem instalado com o Python.
 
-2.  **Clonar o Repositório (Opcional):**
+2.  **Clonar o Repositório:**
    clone-o para sua máquina:
        ```bash
     https://github.com/RenanFreixoBarbosa/contacts_api.git
